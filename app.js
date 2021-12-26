@@ -9,13 +9,13 @@ const button_6787678234 = document.getElementById("6787678234");
 // Adding buttons listeners to test programmatic events
 button.addEventListener("click", () => console.log(`You're playing with me`));
 button_6787678232.addEventListener("click", () =>
-  console.log(`You're playing with 6787678232`)
+  alert(`You're playing with 6787678232`)
 );
 button_6787678233.addEventListener("click", () =>
-  console.log(`You're playing with 6787678233`)
+  alert(`You're playing with 6787678233`)
 );
 button_6787678234.addEventListener("click", () =>
-  console.log(`You're playing with 6787678234`)
+  alert(`You're playing with 6787678234`)
 );
 
 // Testing programmatic click buttons by content
