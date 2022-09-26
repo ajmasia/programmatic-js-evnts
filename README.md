@@ -1,4 +1,4 @@
-# Programmatic JS Ebents playground
+# Programmatic JS Events playground
 
 ## Start playing
 
